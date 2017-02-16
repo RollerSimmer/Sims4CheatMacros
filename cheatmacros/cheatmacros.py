@@ -1,7 +1,7 @@
 """
 Cheat code macros 
 Date: 2016 Aug
-Author: Scurkitect
+Author: RollerSimmer
 """
 
 import sims4.commands

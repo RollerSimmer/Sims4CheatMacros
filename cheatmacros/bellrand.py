@@ -1,8 +1,7 @@
 """
-Shortcuts for TS4 | 2014-12-22
-
-Written by pbox http://modthesims.info/members/plasticbox
-Published under https://creativecommons.org/licenses/by-nc-sa/3.0/
+Bell random function
+Date: 2016 Aug
+Author: RollerSimmer
 """
 
 import random

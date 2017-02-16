@@ -3,6 +3,8 @@ Shortcuts for TS4 | 2014-12-22
 
 Written by pbox http://modthesims.info/members/plasticbox
 Published under https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Modified by RollerSimmer 2016 Aug
 """
 
 import sims4.commands
